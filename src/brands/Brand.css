@@ -1,0 +1,12 @@
+.card-brand{
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin: auto;
+    margin-top: 40px;
+}
+
+.brands-image{
+    width: 130px;
+    height: 130px;
+}

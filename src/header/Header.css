@@ -1,0 +1,30 @@
+nav{
+    max-width: 1440px;
+    height: 70px;
+    margin: auto;
+    background-color: #333333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar{
+    display: flex;
+    gap: 0 10px;
+    padding-inline: 30px;
+}
+
+p{
+    color: #fff;
+}
+
+img{
+    width: 170px;
+    height: 40px;
+    margin-left: 30px;
+}
+
+.icons{
+    width: 16px;
+    height: 16px;
+}

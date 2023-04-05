@@ -1,0 +1,31 @@
+.cards{
+    display: flex;
+    gap: 0 40px;
+    justify-content: center;
+}
+
+.info-card{
+    width: 350px;
+    height: 100px;
+    background: linear-gradient(90deg, #1c446d, #0C1218);
+    align-items: center;
+    /* justify-content: center; */
+    border-inline-end-color: #0C1218;
+    display: flex;
+    margin-top: 15px;
+}
+
+.info-icons{
+    margin-left: -80px;
+}
+
+.card-heading{
+    color: #fff;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+
+.card-paragraph{
+    color: #a5a1a1;
+    font-family: sans-serif;
+}
